@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Wen Ye - Homepage"
-excerpt: "Wen Ye - Homepage"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/

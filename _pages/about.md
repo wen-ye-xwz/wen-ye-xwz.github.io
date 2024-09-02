@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science department at University of Southern California (USC) advised by <a href='https://viterbi-web.usc.edu/~liu32/'>Prof. Yan Liu</a>.  I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. Previously, I worked with <a href='https://datascience.wisc.edu/staff/gao-song/'> Prof. Song Gao</a> on research topics related to Geospatial Data Science. You can reach me at <a href="mailto:yewen@usc.edu">yewen@usc.edu</a>. 
+I am a second-year Ph.D. student in the Computer Science department at University of Southern California (USC) advised by <a href='https://viterbi-web.usc.edu/~liu32/'>Prof. Yan Liu</a>. My primary research interests encompass the development of machine learning applications on spatial–temporal data. My current research focuses on **time series foundation model**. Previously, I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. During the time at Madison, I worked with <a href='https://datascience.wisc.edu/staff/gao-song/'> Prof. Song Gao</a> on research topics related to Geospatial Data Science. You can reach me at <a href="mailto:yewen@usc.edu">yewen@usc.edu</a>. 
 
-My primary research interests encompass the development of machine learning and data mining algorithms on spatial–temporal data. My current research focuses on **time series foundation model**, and **geospatial data modeling**.
+
 
 <!-- ## Research Interest: 
 * Time Series

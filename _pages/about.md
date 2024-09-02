@@ -30,7 +30,7 @@ Ph.D. in Computer Science
 	<i>Aug. 2019 - May 2023</i>
 </div>
 
-Bachelor of Science in **Computer Science**, **Data Science**, **Statistics**
+Bachelor of Science in Computer Science, Data Science, Statistics
 
 <!-- ## News -->
 

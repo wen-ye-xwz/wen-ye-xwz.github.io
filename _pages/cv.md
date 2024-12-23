@@ -30,7 +30,7 @@ redirect_from:
 
 ## Publication
 * [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
-	Defu Cao*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
+	Defu Cao\*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
 	*ArXiv Preprint*
 * [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
 	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\

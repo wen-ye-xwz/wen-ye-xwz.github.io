@@ -7,17 +7,6 @@ redirect_from:
   - /resume
 ---
 
-## Publication
-* [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
-	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\
-	*The Twelfth International Conference on Learning Representations (ICLR 2024)*
-* [**Region2vec: Community detection on spatial networks using graph embedding with node attributes and spatial interactions**](https://dl.acm.org/doi/abs/10.1145/3557915.3560974). 
-	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao. \\
-	*Proceedings of the 30th International Conference on Advances in Geographic Information Systems*
-* [**Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States**](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)
-	**Wen Ye**, Song Gao. \\
-	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
-
 
 ## Education
 <div style='display: flex; justify-content: space-between;'>
@@ -38,6 +27,24 @@ redirect_from:
 <div>
 	<p style='margin:0px'>Bachelor of Science in Computer Science, Data Science, Statistics</p>
 </div>
+
+## Publication
+* [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
+	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\
+	*The Twelfth International Conference on Learning Representations (ICLR 2024)*
+* [**Region2vec: Community detection on spatial networks using graph embedding with node attributes and spatial interactions**](https://dl.acm.org/doi/abs/10.1145/3557915.3560974). 
+	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao. \\
+	*Proceedings of the 30th International Conference on Advances in Geographic Information Systems*
+* [**Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States**](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)
+	**Wen Ye**, Song Gao. \\
+	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
+* [**Timedit: General-purpose diffusion transformers for time series foundation model**] (https://arxiv.org/abs/2409.02322)
+	Defu Cao*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
+	*arXiv preprint*
+
+## Teaching
+- Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications Fall 2024.
+- Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
 
 ## Awards
 - USC Annenberg Fellowship 2023
@@ -73,17 +80,6 @@ redirect_from:
 * Set up a data pipeline and built enriched trip dataset with urban/rural features using Sedona and Spark
 * Designed and implemented an algorithm to detect user relocation by examining their trips, determining change in dwelling locations, and peaks in their traveling distances
 
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Department of Computer Science, University of Wisconsin – Madison</b></p>
-	<i>Aug. 2020 -- May 2021</i>
-</div>
-<div style='display:flex; justify-content:space-between;'>
-<p style='margin:0px'>CS 320 Undergraduate Teaching Assistant</p>
-<i>Madison, WI</i>
-</div>
-
-* Held weekly office hours to help students debug and led discussion sessions to go over quiz materials
-* Designed and modified existing projects to be more challenging
 
 <!-- ## Research Projects
 

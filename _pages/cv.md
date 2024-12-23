@@ -38,7 +38,7 @@ redirect_from:
 * [**Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States**](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)
 	**Wen Ye**, Song Gao. \\
 	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
-* [**Timedit: General-purpose diffusion transformers for time series foundation model**] (https://arxiv.org/abs/2409.02322)
+* [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
 	Defu Cao*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
 	*arXiv preprint*
 

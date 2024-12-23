@@ -29,6 +29,9 @@ redirect_from:
 </div>
 
 ## Publication
+* [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
+	Defu Cao*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
+	*ArXiv Preprint*
 * [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
 	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\
 	*The Twelfth International Conference on Learning Representations (ICLR 2024)*
@@ -38,9 +41,7 @@ redirect_from:
 * [**Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States**](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)
 	**Wen Ye**, Song Gao. \\
 	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
-* [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
-	Defu Cao*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
-	*arXiv preprint*
+
 
 ## Teaching
 - Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications Fall 2024.

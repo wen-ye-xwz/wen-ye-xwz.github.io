@@ -29,9 +29,16 @@ redirect_from:
 </div>
 
 ## Publication
+* [**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution.**] (https://arxiv.org/abs/2410.04047)
+	**Wen Ye\***, Yizhou Zhang\*, Wei Yang\*, Defu Cao, Lumingyuan Tang, Yan Liu. \\
+	*ArXiv Preprint*
+* [**GeoAI-enhanced community detection on spatial networks with graph deep learning**] (https://arxiv.org/pdf/2411.15428)
+	Yunlei Liang, Jiawei Zhua, **Wen Ye**, Song Gao \\
+	*Computers, Environment and Urban Systems*
 * [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
 	Defu Cao\*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
-	*ArXiv Preprint*
+	*ArXiv Preprint* \\
+	*ICML 2024 Foundation Model in the Wild Workshop*
 * [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
 	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\
 	*The Twelfth International Conference on Learning Representations (ICLR 2024)*
@@ -42,18 +49,16 @@ redirect_from:
 	**Wen Ye**, Song Gao. \\
 	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
 
-
-## Teaching
-- Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications Fall 2024.
-- Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
-
 ## Awards
 - USC Annenberg Fellowship 2023
 - Student Research Paper Competition (SRC) Second Place at ACM SIGSPATIAL 2022
 - Best Paper Award from ACM SIGSPATIAL Spatial Epidemiology Workshop 2022
 - Hilldale Undergraduate/Faculty Research Fellowship (2022-2023): Understanding spatial inequality to healthcare access in Wisconsin through deep learning-based network analysis
 - MinneAnalytics Scholarship 2021
-- Dean’s List
+
+## Teaching
+- Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications, Fall 2024.
+- Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
 
 ## Work Experiences
 

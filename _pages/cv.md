@@ -29,10 +29,10 @@ redirect_from:
 </div>
 
 ## Publication
-* [**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution.**] (https://arxiv.org/abs/2410.04047)
+* [**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution.**](https://arxiv.org/abs/2410.04047)
 	**Wen Ye\***, Yizhou Zhang\*, Wei Yang\*, Defu Cao, Lumingyuan Tang, Yan Liu. \\
 	*ArXiv Preprint*
-* [**GeoAI-enhanced community detection on spatial networks with graph deep learning**] (https://arxiv.org/pdf/2411.15428)
+* [**GeoAI-enhanced community detection on spatial networks with graph deep learning**](https://arxiv.org/pdf/2411.15428)
 	Yunlei Liang, Jiawei Zhua, **Wen Ye**, Song Gao \\
 	*Computers, Environment and Urban Systems*
 * [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)

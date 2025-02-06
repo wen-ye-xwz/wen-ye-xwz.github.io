@@ -33,7 +33,7 @@ redirect_from:
 	**Wen Ye\***, Yizhou Zhang\*, Wei Yang\*, Defu Cao, Lumingyuan Tang, Yan Liu. \\
 	*ArXiv Preprint*
 * [**GeoAI-enhanced community detection on spatial networks with graph deep learning**](https://arxiv.org/pdf/2411.15428)
-	Yunlei Liang, Jiawei Zhua, **Wen Ye**, Song Gao \\
+	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao \\
 	*Computers, Environment and Urban Systems*
 * [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
 	Defu Cao\*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\

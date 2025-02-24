@@ -21,7 +21,7 @@ I am a second-year Ph.D. student in the Computer Science department at Universit
 ## Education
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
-	<i>Aug. 2024 - Present</i>
+	<i>Aug. 2023 - Present</i>
 </div>
 Ph.D. in Computer Science
 

@@ -40,7 +40,7 @@ redirect_from:
 
 ## Work Experiences
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Amazon AWS EC2</b></p>
+	<p style='margin:0px'><b>Amazon AWS EC2</b></p>
 	<i>May 2025 -- Aug. 2025</i>
 </div>
 <div style='display:flex; justify-content:space-between;'>
@@ -49,7 +49,7 @@ redirect_from:
 </div>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Arity</b></p>
+	<p style='margin:0px'><b>Arity</b></p>
 	<i>May 2023 -- Aug. 2023</i>
 </div>
 <div style='display:flex; justify-content:space-between;'>
@@ -58,7 +58,7 @@ redirect_from:
 </div>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Arity</b></p>
+	<p style='margin:0px'><b>Arity</b></p>
 	<i>May 2022 -- Aug. 2022</i>
 </div>
 <div style='display:flex; justify-content:space-between;'>

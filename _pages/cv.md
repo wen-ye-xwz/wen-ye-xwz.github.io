@@ -29,15 +29,6 @@ redirect_from:
 </div>
 
 
-
-## Awards
-- USC Annenberg Fellowship 2023
-- Student Research Paper Competition (SRC) Second Place at ACM SIGSPATIAL 2022
-- Best Paper Award from ACM SIGSPATIAL Spatial Epidemiology Workshop 2022
-- Hilldale Undergraduate/Faculty Research Fellowship (2022-2023): Understanding spatial inequality to healthcare access in Wisconsin through deep learning-based network analysis
-- MinneAnalytics Scholarship 2021
-
-
 ## Work Experiences
 <div style='display: flex; justify-content: space-between;'>
 	<p style='margin:0px'><b>Amazon AWS EC2</b></p>
@@ -65,6 +56,14 @@ redirect_from:
 <p style='margin:0px'>Data Science Intern</p>
 <i>Chicago, IL</i>
 </div>
+* Investigated the data quality issue regarding trip duplication
+
+## Awards
+- USC Annenberg Fellowship 2023
+- Student Research Paper Competition (SRC) Second Place at ACM SIGSPATIAL 2022
+- Best Paper Award from ACM SIGSPATIAL Spatial Epidemiology Workshop 2022
+- Hilldale Undergraduate/Faculty Research Fellowship (2022-2023): Understanding spatial inequality to healthcare access in Wisconsin through deep learning-based network analysis
+- MinneAnalytics Scholarship 2021
 
 
 ## Teaching

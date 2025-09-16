@@ -28,26 +28,7 @@ redirect_from:
 	<p style='margin:0px'>Bachelor of Science in Computer Science, Data Science, Statistics</p>
 </div>
 
-## Publication
-* [**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution**](https://arxiv.org/abs/2410.04047)
-	**Wen Ye\***, Yizhou Zhang\*, Wei Yang\*, Defu Cao, Lumingyuan Tang, Yan Liu. \\
-	*ArXiv Preprint*
-* [**GeoAI-enhanced community detection on spatial networks with graph deep learning**](https://arxiv.org/pdf/2411.15428)
-	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao \\
-	*Computers, Environment and Urban Systems*
-* [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
-	Defu Cao\*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
-	*ArXiv Preprint* \\
-	*ICML 2024 Foundation Model in the Wild Workshop*
-* [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
-	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\
-	*The Twelfth International Conference on Learning Representations (ICLR 2024)*
-* [**Region2vec: Community detection on spatial networks using graph embedding with node attributes and spatial interactions**](https://dl.acm.org/doi/abs/10.1145/3557915.3560974). 
-	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao. \\
-	*Proceedings of the 30th International Conference on Advances in Geographic Information Systems*
-* [**Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States**](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)
-	**Wen Ye**, Song Gao. \\
-	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
+
 
 ## Awards
 - USC Annenberg Fellowship 2023
@@ -56,11 +37,16 @@ redirect_from:
 - Hilldale Undergraduate/Faculty Research Fellowship (2022-2023): Understanding spatial inequality to healthcare access in Wisconsin through deep learning-based network analysis
 - MinneAnalytics Scholarship 2021
 
-## Teaching
-- Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications, Fall 2024.
-- Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
 
 ## Work Experiences
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Amazon AWS EC2</b></p>
+	<i>May 2025 -- Aug. 2025</i>
+</div>
+<div style='display:flex; justify-content:space-between;'>
+<p style='margin:0px'>Applied Scientist Intern</p>
+<i>Seattle, WA</i>
+</div>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin:0px'><b>Arity</b></p>
@@ -71,9 +57,6 @@ redirect_from:
 <i>Chicago, IL</i>
 </div>
 
-* Modified the Non-Maximum Suppression Algorithm to update boundaries of regional tiles to prevent overlap which makes the downstream task of scoring trips within regions easier
-* Investigated the data quality issue regarding trip duplication and created a scrip to flag trips that are duplicate by trip id (duplicate trips by collection) or by geolocation-trail and timestamp (semantically duplicate trips)
-
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin:0px'><b>Arity</b></p>
 	<i>May 2022 -- Aug. 2022</i>
@@ -83,10 +66,10 @@ redirect_from:
 <i>Chicago, IL</i>
 </div>
 
-* Set up a data pipeline and built enriched trip dataset with urban/rural features using Sedona and Spark
-* Designed and implemented an algorithm to detect user relocation by examining their trips, determining change in dwelling locations, and peaks in their traveling distances
 
-
+## Teaching
+- Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications, Fall 2024.
+- Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
 <!-- ## Research Projects
 
 <div style='display:flex; justify-content: space-between;'>

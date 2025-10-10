@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Computer Science department at University of Southern California (USC) advised by <a href='https://xuezhemax.github.io/'>Prof. Xuezhe Ma</a>. My current research focuses on **vision language models**. Previously, I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. During the time at Madison, I worked with <a href='https://datascience.wisc.edu/staff/gao-song/'> Prof. Song Gao</a> on research topics related to Geospatial Data Science. You can reach me at <a href="mailto:yewen@usc.edu">yewen@usc.edu</a>. 
+I am a second-year Ph.D. student in the Computer Science department at University of Southern California (USC) advised by <a href='https://xuezhemax.github.io/'>Prof. Xuezhe Ma</a>. My current research focuses on **vision language models**. I was fortuanate to work with Prof. <a href='https://sites.google.com/view/yanliu-ai/home'>Prof. Yan Liu</a>. Previously, I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. During the time at Madison, I worked with <a href='https://datascience.wisc.edu/staff/gao-song/'> Prof. Song Gao</a> on research topics related to Geospatial Data Science. You can reach me at <a href="mailto:yewen@usc.edu">yewen@usc.edu</a>. 
 
 
 

@@ -69,6 +69,7 @@ redirect_from:
 
 
 ## Teaching
+- Teaching Assisstant for USC DSCI 351 Foundations of Data Management, Fall 2025.
 - Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications, Fall 2024.
 - Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
 

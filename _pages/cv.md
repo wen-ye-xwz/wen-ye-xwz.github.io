@@ -38,7 +38,7 @@ redirect_from:
 <p style='margin:0px'>Applied Scientist Intern</p>
 <i>Seattle, WA</i>
 </div>
-- Adapted and backtested existing time series foundation models against current production model for EC2 demand growth forecasting. 
+Adapted and backtested existing time series foundation models against current production model for EC2 demand growth forecasting. 
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='margin:0px'><b>Arity</b></p>
@@ -48,7 +48,7 @@ redirect_from:
 <p style='margin:0px'>Data Science Intern</p>
 <i>Chicago, IL</i>
 </div>
-* Designed and implemented an algorithm to detect user relocation from vehicle trajectories data. 
+Designed and implemented an algorithm to detect user relocation from vehicle trajectories data. 
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='margin:0px'><b>Arity</b></p>
@@ -58,7 +58,7 @@ redirect_from:
 <p style='margin:0px'>Data Science Intern</p>
 <i>Chicago, IL</i>
 </div>
-* Investigated data quality issues regarding semantic trip duplication. 
+Investigated data quality issues regarding semantic trip duplication. 
 
 ## Awards
 - USC Annenberg Fellowship 2023

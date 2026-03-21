@@ -19,7 +19,7 @@ I am a Ph.D. student in the Computer Science department at University of Souther
 * Spatial-Temporal -->
 
 ## News
-* [Mar. 2026] Our paper [Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis](https://arxiv.org/abs/2410.04047) is accepted by TMLR!
+* [Mar. 2026] Our paper [TS-Reasoner: Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis](https://arxiv.org/abs/2410.04047) is accepted by TMLR!
 * [Jan. 2026] Our paper [PINFDiT: Energy-Based Physics-Informed Diffusion Transformers for General-purpose Time Series Tasks](https://arxiv.org/abs/2409.02322) is accepted by ICLR 2026!
 * [Jan. 2024] Our paper [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948) is accepted by ICLR 2024!
 

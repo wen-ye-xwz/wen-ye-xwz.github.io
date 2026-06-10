@@ -31,34 +31,55 @@ redirect_from:
 
 ## Work Experiences
 <div style='display: flex; justify-content: space-between;'>
+	<p style='margin:0px'><b>Meta PAR</b></p>
+	<i>May 2026 -- Current</i>
+</div>
+<div style='display:flex; justify-content:space-between;'>
+<p style='margin:0px'>Research Scientist Intern</p>
+<i>Menlo Park, CA</i>
+</div>
+
+
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='margin:0px'><b>Institute of Foundation Models</b></p>
+	<i>Jan 2026 -- May 2026</i>
+</div>
+<div style='display:flex; justify-content:space-between;'>
+<p style='margin:0px'>Research Scientist Intern</p>
+<i>Remote</i>
+</div>
+
+
+<div style='display: flex; justify-content: space-between;'>
 	<p style='margin:0px'><b>Amazon AWS EC2</b></p>
-	<i>May 2025 -- Aug. 2025</i>
+	<i>May 2025 -- Aug 2025</i>
 </div>
 <div style='display:flex; justify-content:space-between;'>
 <p style='margin:0px'>Applied Scientist Intern</p>
 <i>Seattle, WA</i>
 </div>
-Adapted and backtested existing time series foundation models against current production model for EC2 demand growth forecasting. 
+
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='margin:0px'><b>Arity</b></p>
-	<i>May 2023 -- Aug. 2023</i>
+	<i>May 2023 -- Aug 2023</i>
 </div>
 <div style='display:flex; justify-content:space-between;'>
 <p style='margin:0px'>Data Science Intern</p>
 <i>Chicago, IL</i>
 </div>
-Designed and implemented an algorithm to detect user relocation from vehicle trajectories data. 
+
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='margin:0px'><b>Arity</b></p>
-	<i>May 2022 -- Aug. 2022</i>
+	<i>May 2022 -- Aug 2022</i>
 </div>
 <div style='display:flex; justify-content:space-between;'>
 <p style='margin:0px'>Data Science Intern</p>
 <i>Chicago, IL</i>
 </div>
-Investigated data quality issues regarding semantic trip duplication. 
+
 
 ## Awards
 - USC Annenberg Fellowship 2023
